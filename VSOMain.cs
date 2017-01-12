@@ -1,4 +1,6 @@
-﻿//A program that retrieves VSO data and afterwards creates and executes a SQL INSERT query using this data
+﻿//A program that imports TFS performance data and uses the watermark field (a unique identifier of a row)
+//to compare data between TFS and a local DB in real-time.
+//If a watermark mismatch is found an UPDATE script is sent to the local DB with the TFS data
 
 using System;
 using System.Collections.Generic;
