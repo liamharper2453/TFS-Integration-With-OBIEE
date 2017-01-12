@@ -1,0 +1,250 @@
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\VSO Monitor.exe.config
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\VSO Monitor.exe
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\VSO Monitor.pdb
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\HtmlAgilityPack.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.Client.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.TeamFoundation.Client.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.TeamFoundation.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.TeamFoundation.WorkItemTracking.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.Common.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\System.Net.Http.Formatting.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Newtonsoft.Json.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.ServiceBus.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.Services.Integration.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\EnvDTE80.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\EnvDTE.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Controls.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\stdole.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.mshtml.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.MSXML.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.VSHelp80.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\HtmlAgilityPack.pdb
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\HtmlAgilityPack.xml
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\EnvDTE80.xml
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\EnvDTE.xml
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\cs\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\de\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\es\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\fr\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\it\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ja\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ko\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pl\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pt-BR\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ru\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\tr\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hans\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hant\Microsoft.VisualStudio.TeamFoundation.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\cs\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\de\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\es\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\fr\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\it\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ja\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ko\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pl\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pt-BR\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ru\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\tr\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hans\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hant\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\cs\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\de\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\es\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\fr\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\it\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ja\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ko\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pl\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pt-BR\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\tr\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Controls.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\cs\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\de\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\es\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\fr\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\it\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ja\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ko\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pl\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\ru\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\tr\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Integration.resources.dll
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\obj\Debug\VSO Monitor Windows Service.csprojResolveAssemblyReference.cache
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\obj\Debug\VSO_Monitor.VSOMonitorInstaller.resources
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\obj\Debug\VSO Monitor Windows Service.csproj.GenerateResource.Cache
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\obj\Debug\VSO Monitor.exe
+U:\Visual Studio 2015\Projects\VSO Monitor\Main\obj\Debug\VSO Monitor.pdb
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\VSO Monitor.exe.config
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\obj\Debug\VSO Monitor.exe
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\obj\Debug\VSO Monitor.pdb
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\obj\Debug\VSO Monitor Windows Service.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\obj\Debug\VSO_Monitor.VSOMonitorInstaller.resources
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\obj\Debug\VSO Monitor Windows Service.csproj.GenerateResource.Cache
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\VSO Monitor.exe
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\VSO Monitor.pdb
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.VisualStudio.Services.Integration.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\EnvDTE80.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\EnvDTE.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Controls.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\stdole.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.VisualStudio.VSHelp80.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\EnvDTE80.xml
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\EnvDTE.xml
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\cs\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\de\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\es\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\fr\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\it\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ja\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ko\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pl\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pt-BR\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\tr\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\cs\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\de\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\es\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\fr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\it\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ja\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ko\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pl\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pt-BR\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ru\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\tr\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hant\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\cs\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\de\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\es\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\fr\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\it\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ja\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ko\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pl\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pt-BR\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ru\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\tr\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hans\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hant\Microsoft.VisualStudio.TeamFoundation.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\cs\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\de\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\es\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\fr\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\it\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ja\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ko\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pl\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pt-BR\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ru\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\tr\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hans\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hant\Microsoft.VisualStudio.TeamFoundation.Client.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\cs\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\de\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\es\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\fr\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\it\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ja\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ko\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pl\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pt-BR\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\tr\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Controls.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\cs\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\de\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\es\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\fr\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\it\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ja\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ko\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pl\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\ru\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\tr\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\GitHub\TFS-Integration-With-OBIEE\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Integration.resources.dll
+C:\Users\Liam\Documents\TFS-Integration-With-OBIEE\bin\Debug\VSO Monitor.exe.config
+C:\Users\Liam\Documents\TFS-Integration-With-OBIEE\obj\Debug\VSO Monitor.exe
+C:\Users\Liam\Documents\TFS-Integration-With-OBIEE\obj\Debug\VSO Monitor.pdb
